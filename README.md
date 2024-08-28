@@ -15,7 +15,8 @@ This project implements an e-commerce recommendation system using various techni
 
 ### Data Processing:
 
-**Data Preprocessing:** Cleaned and transformed raw data to a suitable format for modeling.
+**Data Preprocessing:** Cleaned and transformed raw data to a suitable format for modeling.  
+
 **Exploratory Data Analysis (EDA):** Analyzed data to gain insights and understand patterns.
 ### Web Application:
 
