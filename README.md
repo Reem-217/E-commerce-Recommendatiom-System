@@ -26,7 +26,7 @@ Exploratory Data Analysis (EDA): Analyzed data to gain insights and understand p
 ### Authentication:
 **Sign Up and Sign In:** Users can register and log in to access personalized recommendations.  
 
-**Password Hashing: **Implemented secure password hashing for user authentication.
+**Password Hashing:**Implemented secure password hashing for user authentication.
 
 ### Prerequisites
 Python 3.x
