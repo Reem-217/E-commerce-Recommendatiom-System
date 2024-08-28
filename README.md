@@ -29,8 +29,12 @@ Exploratory Data Analysis (EDA): Analyzed data to gain insights and understand p
 **Password Hashing:** Implemented secure password hashing for user authentication.
 
 ### Prerequisites
-Python 3.x
-Flask
-scikit-learn
-MySQL
+Python 3.x  
+
+Flask  
+
+scikit-learn  
+
+MySQL  
+
 Bootstrap (for styling)
